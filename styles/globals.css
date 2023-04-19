@@ -61,3 +61,6 @@ a {
 .post-container .heateor_sss_sharing_container {
   display: none;
 }
+img {
+  cursor: pointer;
+}
